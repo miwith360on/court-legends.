@@ -4,7 +4,7 @@ A Pokémon-style basketball RPG built entirely in **R + Shiny** by Qumonie Knox.
 
 Walk around a retro tile world, battle streetballers and gym leaders in turn-based 1v1 games, level up with no stat cap, recruit wild creatures and build a squad.
 
-![Blacktop City(screenshots/blacktop-city.png)
+![Blacktop City](blacktop-city.png)
 
 ## How to play
 
@@ -18,7 +18,7 @@ Walk around a retro tile world, battle streetballers and gym leaders in turn-bas
 
 - **Overworld:** Rookie Town, Route 1, Blacktop City, Route 2 and Riverside, with tall grass for wild battles
 - **Turn-based basketball battles:** offense (Jumper, Three, Drive, signature moves) and defense (Contest, Block, Steal), with rebounds and stamina
-- **Two gyms:** Splash (shooting) and Blur (speed), each with its own playstyle to read and badges to earn
+- **Two gyms:** Splash (shooting) and Blur (speed), each with its own playstyle to read and a badge to earn
 - **Progression with no cap:** stats grow from what you practice; each point costs more the higher it gets
 - **Recruiting and squad:** beat wild creatures, try to recruit them, swap your active creature at any Coach Center
 - **Coins and gear shop:** Speed Shoes, Shooter Sleeve, Lockdown Gloves, Headband, Gatorade
@@ -35,7 +35,9 @@ Walk around a retro tile world, battle streetballers and gym leaders in turn-bas
 | Glasshog | Rebounder (wild) | Putback Slam |
 | Zoomander | Speedster (wild) | Blur Step |
 
-![Riverside](screenshots/riverside.png)
+![Riverside](riverside.png)
+
+![Riverside Gym](riverside-gym.png)
 
 ## Under the hood
 

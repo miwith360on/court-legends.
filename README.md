@@ -4,7 +4,7 @@ A Pokémon-style basketball RPG built entirely in **R + Shiny** by Qumonie Knox.
 
 Walk around a retro tile world, battle streetballers and gym leaders in turn-based 1v1 games, level up with no stat cap, recruit wild creatures and build a squad.
 
-![Blacktop City
+![Blacktop City(screenshots/blacktop-city.png)
 
 ## How to play
 
